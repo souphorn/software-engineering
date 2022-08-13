@@ -7,3 +7,6 @@ Collection of best practices of software engineering
 
 ### Coding standard
 - Set and improve team standard and automate quality check: (SonarQube)[https://www.sonarqube.org/], (CheckStyle)[https://checkstyle.org/], (ArchUnit)[https://www.archunit.org/]
+
+### Integration
+- Improve system to system integration and communication: [Apache Camel](https://camel.apache.org/)
