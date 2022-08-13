@@ -10,3 +10,6 @@ Collection of best practices of software engineering
 
 ### Integration
 - Improve system to system integration and communication: [Apache Camel](https://camel.apache.org/)
+
+### Performance
+- Performance testing: [Apache JMeter](https://jmeter.apache.org/), [Gatling](https://gatling.io/)
